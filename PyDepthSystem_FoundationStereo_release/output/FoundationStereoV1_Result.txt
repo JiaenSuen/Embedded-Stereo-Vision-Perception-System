@@ -1,0 +1,5 @@
+SGBM Models Evaluation Report
+
+FoundationStereoV1:
+  Number of detections: 50
+  Mean Absolute Error (cm): 3.67

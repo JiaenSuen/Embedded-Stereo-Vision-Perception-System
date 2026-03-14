@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyc
+
+input/
+yolov8n-oiv7.pt
+yolo11n.py
+stereo_rectify_params.npz
+PyStereo/IINet/pretrained_models/sceneflow.tar
